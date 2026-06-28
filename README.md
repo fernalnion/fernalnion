@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Narayanan Kuppusami 👋
 
-<!--
-**fernalnion/fernalnion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect and Technical Lead with 13+ years of experience building enterprise software for Industrial IoT, SCADA, Energy Management, and cloud-native applications.
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 13+ years in Software Engineering
+- Technical Leadership & Solution Architecture
+- Enterprise Product Development
+- Full Stack Development
+- Cloud-native Application Design
+
+## 🚀 Technologies
+
+### Backend
+- NestJS
+- Node.js
+- TypeScript
+- PostgreSQL
+- Prisma
+- MongoDB
+- Redis
+- Kafka
+
+### Frontend
+- Angular
+- TypeScript
+- RxJS
+- PrimeNG
+
+### Cloud & DevOps
+- AWS
+- Docker
+- GitHub Actions
+- Nx Monorepo
+- CI/CD
+
+### Industrial Technologies
+- SCADA
+- OPC UA
+- Modbus TCP
+- MQTT
+- SNMP
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Software Architecture
+- Kubernetes
+- System Design
+- Edge Computing
+
+## 🤝 Connect with me
+
+- LinkedIn: https://linkedin.com/in/fernalnion
+
+Always interested in discussing software architecture, distributed systems, Industrial IoT, and enterprise application development.
